@@ -73,6 +73,7 @@ plugin://plugin.video.dailymotion_com/?mode=playLiveVideo&url=x6uoseg
 plugin://plugin.video.dailymotion_com/?mode=playLiveVideo&url=x6c7r09
 #EXTINF:-1 tvg-logo="" group-title="Dailymotion", 24TV
 plugin://plugin.video.dailymotion_com/?mode=playLiveVideo&url=x648u9s
-
+#EXTINF:-1 tvg-logo="" group-title="Dailymotion", ATV
+https://blutv-beta.akamaized.net/atvhd/atvhd.smil/playlist.m3u8|User-Agent=Mozilla/5.0
 
 
