@@ -20,31 +20,31 @@ plugin://plugin.video.youtube/play/?video_id=H5-XajaQaWw
 #EXTINF:-1 tvg-logo="" group-title="Youtube",KRAL POP
 plugin://plugin.video.youtube/play/?video_id=dEHMR7Qpthw
 #EXTINF:-1 tvg-logo="https://trtkurumsal.trt.net.tr/Uploads/image/png/2019-03-20-10.50.19/17ddfc2658604509a952019f6ce55452_w_118.png" group-title="TRT",TRT 1
-https://trtcanlitv-lh.akamaihd.net/i/TRT1HD_1@181842/master.m3u8
+https://tv-trt1.live.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-logo="https://trtkurumsal.trt.net.tr/Uploads/image/png/2019-03-20-11.12.39/d052cece8a9049348c49812c1141e586_w_118.png" group-title="TRT",TRT 2
-https://trtcanlitv-lh.akamaihd.net/i/TRT2_1@107981/master.m3u8
+https://tv-trt2.live.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-logo="https://trtkurumsal.trt.net.tr/Uploads/image/png/2019-03-20-11.14.57/afb285c992c744fe83f01388e262b839_w_118.png" group-title="TRT",TRT WORLD
-https://trtcanlitv-lh.akamaihd.net/i/TRTWORLD_1@321783/master.m3u8
+https://tv-trtworld.live.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-logo="https://trtkurumsal.trt.net.tr/Uploads/image/png/2019-03-20-11.16.11/82e79874979d4aaa88f97495cd4f2493_w_118.png" group-title="TRT",TRT HABER
-https://trtcanlitv-lh.akamaihd.net/i/TRTHABERHD_1@181942/master.m3u8
+https://tv-trthaber.live.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-logo="https://trtkurumsal.trt.net.tr/Uploads/image/png/2019-03-20-11.23.47/26a2ed090ada4b9fba97b3fcab3551d7_w_118.png" group-title="TRT",TRT SPOR
-https://trtcanlitv-lh.akamaihd.net/i/TRTSPOR1_1@182042/master.m3u8|X-Forwarded-For=176.54.83.14
+https://tv-trtspor1.live.trt.com.tr/master.m3u8|X-Forwarded-For=176.54.83.14
 #EXTINF:-1 tvg-logo="https://trtkurumsal.trt.net.tr/Uploads/image/png/2019-09-27-14.28.25/bac71543355946618efd7c13e2f1dc77_w_118.png" group-title="TRT",TRT SPOR 2
-https://trtcanlitv-lh.akamaihd.net/i/TRTSPOR2_1@783031/master.m3u8|X-Forwarded-For=176.54.83.14
+https://tv-trtspor2.live.trt.com.tr/master.m3u8X-Forwarded-For=176.54.83.14
 #EXTINF:-1 tvg-logo="https://trtkurumsal.trt.net.tr/Uploads/image/png/2019-03-20-11.19.01/69a03b09fca64ae0b1503a05729cdf22_w_118.png" group-title="TRT",TRT BELGESEL
 https://trtcanlitv-lh.akamaihd.net/i/TRTBELGESEL_1@182145/master.m3u8|X-Forwarded-For=176.54.83.14
 #EXTINF:-1 tvg-logo="https://trtkurumsal.trt.net.tr/Uploads/image/png/2019-03-20-11.18.36/22fa8c432fe245a796cff18a36745381_w_118.png" group-title="TRT",TRT COCUK
-https://trtcanlitv-lh.akamaihd.net/i/TRTCOCUK_1@181844/master.m3u8
+https://tv-trtcocuk.live.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-logo="https://trtkurumsal.trt.net.tr/Uploads/image/png/2019-03-20-11.18.03/0285e2cef9cc4c6ab30d98932257ec99_w_118.png" group-title="TRT",TRT AVAZ
-https://trtcanlitv-lh.akamaihd.net/i/TRTAVAZ_1@182244/master.m3u8
+https://tv-trtavaz.live.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-logo="https://trtkurumsal.trt.net.tr/Uploads/image/png/2019-03-20-11.19.35/16282aa8d75f4ac497d18b0b9bb77f5e_w_118.png" group-title="TRT",TRT MUZIK
-https://trtcanlitv-lh.akamaihd.net/i/TRTMUZIK_1@181845/master.m3u8
+https://tv-trtmuzik.live.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-logo="https://trtkurumsal.trt.net.tr/Uploads/image/png/2019-03-20-11.20.47/7c213cbbd7c4438a99bd9304f7c35a72_w_118.png" group-title="TRT",TRT TÜRK
-https://trtcanlitv-lh.akamaihd.net/i/TRTTURK_1@182144/master.m3u8
+https://tv-trtturk.live.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-logo="https://trtkurumsal.trt.net.tr/Uploads/image/png/2019-03-20-11.21.19/890ab780012848a99eda0bda8c1c605d_w_118.png" group-title="TRT",TRT KURDI
-https://trtcanlitv-lh.akamaihd.net/i/TRT6_1@181944/master.m3u8
+https://tv-trtkurdi.live.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-logo="https://trtkurumsal.trt.net.tr/Uploads/image/png/2019-03-20-11.20.11/24b0f037378945888f2463b6262418f0_w_118.png" group-title="TRT",TRT ARABI
-https://trtcanlitv-lh.akamaihd.net/i/TRTARAPCA_1@181945/master.m3u8
+https://tv-trtarabi.live.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-logo="" group-title="TRT",TRT 3 - TBMM TV
 https://mecliscanlitv-lh.akamaihd.net/i/MECLISTV_1@127503/master.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",TV360
