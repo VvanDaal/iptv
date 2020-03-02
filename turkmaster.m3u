@@ -32,7 +32,7 @@ https://tv-trtspor1.live.trt.com.tr/master.m3u8|X-Forwarded-For=176.54.83.14
 #EXTINF:-1 tvg-logo="https://trtkurumsal.trt.net.tr/Uploads/image/png/2019-09-27-14.28.25/bac71543355946618efd7c13e2f1dc77_w_118.png" group-title="TRT",TRT SPOR 2
 https://tv-trtspor2.live.trt.com.tr/master.m3u8X-Forwarded-For=176.54.83.14
 #EXTINF:-1 tvg-logo="https://trtkurumsal.trt.net.tr/Uploads/image/png/2019-03-20-11.19.01/69a03b09fca64ae0b1503a05729cdf22_w_118.png" group-title="TRT",TRT BELGESEL
-https://tv-trtbelgesel.live.trt.com.tr/master.m3u8|X-Forwarded-For=176.54.83.14
+https://tv-trtbelgesel.live.trt.com.tr/master.m3u8|X-Forwarded-For=13.32.43.121
 #EXTINF:-1 tvg-logo="https://trtkurumsal.trt.net.tr/Uploads/image/png/2019-03-20-11.18.36/22fa8c432fe245a796cff18a36745381_w_118.png" group-title="TRT",TRT COCUK
 https://tv-trtcocuk.live.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-logo="https://trtkurumsal.trt.net.tr/Uploads/image/png/2019-03-20-11.18.03/0285e2cef9cc4c6ab30d98932257ec99_w_118.png" group-title="TRT",TRT AVAZ
