@@ -1,4 +1,5 @@
 #EXTM3U
+#KODIPROP:http-reconnect=true
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/4b/Show_TV.svg/800px-Show_TV.svg.png" group-title="Youtube", SHOW TV
 plugin://plugin.video.youtube/play/?video_id=inOugVa_NYA
 #EXTINF:-1 tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/habert%C3%BCrk-logo-png.png" group-title="Youtube",HABER TURK
